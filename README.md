@@ -5,10 +5,10 @@ Key Features:
 
 KPI's:
 Total Revenue
-Total Quantity sold
-Total Orders 
+Month on month change
+UniQue order
 Avg Order Value 
-Avg pizza per order
+Repeating order
 
 Slicer :
 Order Month -(Month of order)
